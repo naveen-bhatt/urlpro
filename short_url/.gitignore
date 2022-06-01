@@ -1,1 +1,7 @@
-*venv*
+# Environments
+.venv
+venv/
+env/
+.env
+../.venv
+../.venv/
